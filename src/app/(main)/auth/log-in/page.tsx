@@ -10,7 +10,7 @@ export const metadata: Metadata = {
 
 function SighUpPage() {
   return (
-    <div className="bg-gradient-to-r from-gray-100 to-gray-300">
+    <div className="">
       <Container className="500 flex h-full min-h-screen flex-1 flex-grow items-center justify-center">
         <LoginForm />
       </Container>
